@@ -1,5 +1,5 @@
 ## Hi, I’m Pooja Maurya 👋  
-An aspiring Software Engineer focused on frontend development and problem-solving. I work with HTML, CSS, JavaScript, and Python, and prioritize clean, readable code built on strong fundamentals. Currently, I’m deepening my understanding of JavaScript, CSS layouts, and data structures using C++. I’m actively seeking frontend or software development internship opportunities where I can learn, contribute, and grow.
+An aspiring software engineer focused on frontend development and problem-solving. I work with HTML, CSS, JavaScript, and Python, with a strong emphasis on clean, readable code. Currently, I practice data structures and algorithms in C++ for technical interviews while strengthening my frontend skills. I’m actively seeking frontend or software development internship opportunities.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://linkedin.com/in/pooja-maurya-9070b52b8)<br>[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pooja.devhub@gmail.com) 
