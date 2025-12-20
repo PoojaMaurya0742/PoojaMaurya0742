@@ -1,3 +1,12 @@
+#Hi, I’m Pooja Maurya 👋  
+Aspiring Software Engineer focused on frontend development and problem-solving.  
+I work with HTML, CSS, JavaScript, and Python, and prioritize clean, readable code.  
+Currently strengthening JavaScript, CSS layouts, and DSA using Python.  
+Actively seeking frontend or software development internship opportunities.
+
+
+
+
 # 📊 GitHub Stats:<br>![](https://github-readme-stats.vercel.app/api?username=PoojaMaurya0742&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/><br>![](https://nirzak-streak-stats.vercel.app/?user=PoojaMaurya0742&theme=dark&hide_border=false)<br/><br>![](https://github-readme-stats.vercel.app/api/top-langs/?username=PoojaMaurya0742&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br><br>---<br>[![](https://visitcount.itsvg.in/api?id=PoojaMaurya0742&icon=0&color=0)](https://visitcount.itsvg.in)<br><br><!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
