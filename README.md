@@ -2,7 +2,7 @@
 ## Aspiring Software Engineer focused on frontend development and problem-solving.  
 ## I work with HTML, CSS, JavaScript, and Python, and prioritize clean, readable code.  
 ## Currently strengthening JavaScript, CSS layouts, and DSA using Python.  
-## Actively seeking frontend or software development internship opportunities. ##
+## Actively seeking frontend or software development internship opportunities. 
 
 
 
